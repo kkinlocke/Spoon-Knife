@@ -10,3 +10,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 PS Katherine took a copy
 and is working on her local to make updates
+
+Feature 2
+
+This feature provides added functionality for sales managers.
+
